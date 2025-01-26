@@ -1,16 +1,18 @@
-## Hi there 👋
+# HighStWealth
 
-<!--
-**HighStWealth/HighStWealth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official GitHub repository for **HighStWealth**, your gateway to building and managing digital property and wealth.
 
-Here are some ideas to get you started:
+## About HighStWealth
+HighStWealth is a platform dedicated to empowering individuals and businesses to thrive in the digital economy. Our mission is to provide tools, resources, and insights for digital property investment and wealth management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Website Structure
+- **Homepage**: Introduction to HighStWealth.
+- **About**: Learn more about our mission and team.
+- **Blog**: Insights and updates on digital property.
+- **Contact**: Get in touch with us.
+
+## Getting Started
+To run this project locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/HighStWealth.git
